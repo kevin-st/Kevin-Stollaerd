@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\bin\Debug\Yahtzee-Project.exe.config
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\bin\Debug\Yahtzee-Project.exe
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\bin\Debug\Yahtzee-Project.pdb
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\obj\Debug\Yahtzee-Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\obj\Debug\Yahtzee_Project.Yahtzee.resources
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\obj\Debug\Yahtzee_Project.Properties.Resources.resources
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\obj\Debug\Yahtzee_Project.Teerlingview.resources
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\obj\Debug\Yahtzee_Project.Yahtzeeview.resources
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\obj\Debug\Yahtzee-Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\obj\Debug\Yahtzee-Project.exe
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\obj\Debug\Yahtzee-Project.pdb
+C:\Users\User\Desktop\Yahtzee-Project\Yahtzee-Project\Yahtzee-Project\obj\Debug\Yahtzee_Project.Scoreview.resources
