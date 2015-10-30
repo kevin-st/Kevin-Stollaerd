@@ -14,6 +14,7 @@ namespace Yahtzee_Project
     {
 
         private YahtzeeController controller;
+        private GameController gController = new GameController();
 
         public Yahtzeeview(YahtzeeController c)
         {
@@ -34,7 +35,7 @@ namespace Yahtzee_Project
             else
                 throwAllDice.Enabled = false;
 
-            //Yahtzee.scoreController.GetView().UpdateScoreLbl();
+            gController.UpdateScore();
         }
 
         public void UpdateAantalWorpen()

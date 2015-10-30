@@ -21,9 +21,9 @@ namespace Yahtzee_Project
             return view;
         }
 
-        //public void UpdateScore()
-        //{
-        //    view.UpdateScore();
-        //}
+        public void UpdateScore()
+        {
+            view.UpdateScoreLbl();
+        }
     }
 }
