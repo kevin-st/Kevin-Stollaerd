@@ -1,0 +1,6 @@
+- De speler drukt op de helpknop
+- Er verschijnt een nieuw venster met tekst en afbeeldingen
+- Deze afbeeldingen kunnen geanimeerd zijn ter verduidelijking
+- Onderaan de tekst staat nog een "voorbeeld"-knop
+	- De speler drukt op deze knop
+	- Het spel start een simulatie die de speler moet helpen te begrijpen hoe het spel werkt

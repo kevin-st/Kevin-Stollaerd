@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\bin\Debug\Project-Yahtzee_Enkelvoudige-opdracht.exe.config
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\bin\Debug\Project-Yahtzee_Enkelvoudige-opdracht.exe
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\bin\Debug\Project-Yahtzee_Enkelvoudige-opdracht.pdb
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\obj\Debug\Project-Yahtzee_Enkelvoudige-opdracht.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\obj\Debug\Project_Yahtzee_Enkelvoudige_opdracht.Views.Teerlingview.resources
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\obj\Debug\Project_Yahtzee_Enkelvoudige_opdracht.Views.YahtzeeView.resources
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\obj\Debug\Project_Yahtzee_Enkelvoudige_opdracht.Yahtzee_Game.resources
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\obj\Debug\Project_Yahtzee_Enkelvoudige_opdracht.Properties.Resources.resources
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\obj\Debug\Project-Yahtzee_Enkelvoudige-opdracht.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\obj\Debug\Project-Yahtzee_Enkelvoudige-opdracht.exe
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\obj\Debug\Project-Yahtzee_Enkelvoudige-opdracht.pdb
+C:\Users\User\Desktop\SE\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\Project-Yahtzee_Enkelvoudige-opdracht\obj\Debug\Project_Yahtzee_Enkelvoudige_opdracht.Views.ScoreBoardView.resources
